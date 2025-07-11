@@ -5918,7 +5918,7 @@
           },
           'rViewDistance': function (_0x472641) {
             _0x343b32.rViewDistance = _0x18803e.min(_0x18803e.max(_0x472641, 0x32), 0x96);
-            _0x189125("#viewDistance").val(0x64);
+            _0x189125("#viewDistance").val(150);
             _0x24f82e.Ve();
           },
           'rBorderSize': function (_0x2e1658) {
